@@ -11,20 +11,5 @@ User searches for a Wikipedia article on our platform
 5. Once this step for the user is done, we are able to generate a short version of the Wikipedia article via co:here, create audio for the video via Watson AI, and generate keywords to use while finding     GIFs, videos, and images on Pexels and Tenor, and put them in a video format.
 
 
-How it's built:
-Firebase Storage - Store Audio files From Watson in the Cloud ☁️
-Watson Text-to-Speech - Generate audio for the video 🎵
-Wikipedia API - Get all the information from Wikipedia ℹ️
-co:here Generate API - Generate summaries for Wikipedia articles. The generate API is also used to find the best visual elements for the video. 🤖
-GPT-3 - Help generate training data for co:here at scale 🤖
-Pexels API - Find images and videos to put into our generated video 🖼
-Remotion - React library to help us play and assist in generating a video 🎥
-Tailwind CSS - CSS Framework ⭐️
-React.js - Frontend Library ⚛️
-Node.js & Express.js - Frameworks 🔐
-Figma - Design 🎨
-
-
-
 ![image](https://github.com/Sohil1926/htn-2022/assets/61813964/3d331a79-685c-43bc-9a81-283a4b4b9b1b)
 [![Final Result](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
