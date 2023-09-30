@@ -1,4 +1,4 @@
-# Hack the North 2022
+# Nu:here
 an AI-powered platform that converts Wikipedia articles into customizable videos. Utilized IBM's text-to-speech API for audio narration and integrated Watson AI for audio generation. Implemented NLP techniques for summarizing Wikipedia content and identifying visual elements.
 
 The process for the user:
