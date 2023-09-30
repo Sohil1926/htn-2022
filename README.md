@@ -12,4 +12,3 @@ User searches for a Wikipedia article on our platform
 
 
 ![image](https://github.com/Sohil1926/htn-2022/assets/61813964/3d331a79-685c-43bc-9a81-283a4b4b9b1b)
-[![Final Result](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
